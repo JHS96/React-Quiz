@@ -87,6 +87,7 @@ export default defineConfig([
       'valid-typeof': ['error'],
       'react/react-in-jsx-scope': 'off',
       'react/jsx-uses-react': 'off',
+      'react/prop-types': 'off',
     },
   },
 ]);
